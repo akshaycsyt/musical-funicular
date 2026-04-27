@@ -1,4 +1,4 @@
-# Test File
+# Test File - my new awesome feature has been added.
 
 This is a test file.
 
