@@ -1,4 +1,4 @@
-# Test File
+# Test File - bug fix
 
 This is a test file.
 
